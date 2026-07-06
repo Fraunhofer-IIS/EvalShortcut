@@ -6,7 +6,8 @@ To address this, we reformulate generative (NLG) tasks into computationally chea
 
 ## Repository Contents
 
-📊 Updated Corpora: Reformulated datasets and benchmarks are available on Hugging Face (link coming soon)
+📊 Updated Corpora: Reformulated datasets and benchmarks are available on Hugging Face [fraunhofer-iis/evalshortcut](https://huggingface.co/collections/fraunhofer-iis/evalshortcut)
+
 | Capability | Original Dataset (linked) | Reformulated Versions |
 |-------------|---------------------------|------------------------|
 | 🧮 Mathematical Reasoning| [GSM8K](https://huggingface.co/datasets/openai/gsm8k) | • **LL**  <br> • **MC-Random**  <br> • **MC-Smart** |
